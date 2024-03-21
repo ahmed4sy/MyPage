@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(14, 51, 84);
+}
+#home {
+    color: aliceblue;
+    text-align: left;
+    margin-left: 50px;
+    padding: 20px;
+    font-size: 100;
+    width: auto;
+    background-color: rgb(18, 68, 112);
+    border: 1,black;
+    font-family:cursive;
+    font-style: oblique;
+    display: inline-block;
+}
+div {
+    font-size: 50;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+}
+span {
+    animation: infinite;
+}
+.tap {
+    padding-left: 10px;
+    font-size: 50px;
+    color: rgb(170 179 255);
+    font-variant: normal;
+}
+fieldset {
+    color: white;
+    background-color: #3c5263;
+}
+.name{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0px;
+}
+.age{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
